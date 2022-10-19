@@ -1,0 +1,148 @@
+[09-Oct-2022 08:37:28 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:37:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:41:34 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:41:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:32 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:35 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:43 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:45 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:47 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:54 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 08:44:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 09:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method GusRegonApi::checkNip() in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php on line 124
+[09-Oct-2022 09:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to protected method GusRegonApi::checkNip() from context '' in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php on line 124
+[09-Oct-2022 09:46:28 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 09:46:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 09:48:16 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[09-Oct-2022 09:48:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[10-Oct-2022 08:51:14 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[10-Oct-2022 08:51:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[10-Oct-2022 10:33:20 UTC] PHP Notice:  Trying to get property 'd' of non-object in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus3.php on line 35
+[10-Oct-2022 18:35:18 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus2.php on line 147
+[10-Oct-2022 18:37:31 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus2.php on line 147
+[10-Oct-2022 20:04:35 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[10-Oct-2022 20:04:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[11-Oct-2022 09:28:13 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[11-Oct-2022 09:28:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 05:55:20 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus2.php on line 147
+[12-Oct-2022 05:55:21 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus3.php on line 147
+[12-Oct-2022 09:00:37 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:00:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:00:43 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:00:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:01:43 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:01:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:03:34 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:03:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:03:48 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:03:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:03:50 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:03:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:05:13 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:05:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:05:33 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:05:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:05:33 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:05:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:06:09 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:06:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:06:26 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:06:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:06:26 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 09:06:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[12-Oct-2022 18:17:52 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus2.php on line 147
+[12-Oct-2022 18:17:52 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus3.php on line 147
+[12-Oct-2022 18:21:41 UTC] Błąd Commands out of sync; you can't run this command now bazy danych WordPressa podczas wykonywania zapytania SHOW FULL COLUMNS FROM `wp_options` wysłanego przez shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[12-Oct-2022 18:21:41 UTC] Błąd Commands out of sync; you can't run this command now bazy danych WordPressa podczas wykonywania zapytania SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') wysłanego przez shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[12-Oct-2022 18:21:41 UTC] Błąd Commands out of sync; you can't run this command now bazy danych WordPressa podczas wykonywania zapytania SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status IN ('pending') AND a.scheduled_date_gmt <= '2022-10-12 18:21:41' LIMIT 0, 5 wysłanego przez shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[13-Oct-2022 09:27:23 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[13-Oct-2022 09:27:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[13-Oct-2022 09:29:14 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[13-Oct-2022 09:29:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[13-Oct-2022 09:32:12 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[13-Oct-2022 09:32:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[13-Oct-2022 10:19:22 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[13-Oct-2022 10:19:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[14-Oct-2022 16:29:31 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[14-Oct-2022 16:29:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[14-Oct-2022 16:29:49 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[14-Oct-2022 16:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[14-Oct-2022 16:29:49 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[14-Oct-2022 16:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 09:39:03 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 09:39:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 09:39:32 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 09:39:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 09:39:32 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 09:39:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 13:32:11 UTC] PHP Notice:  Undefined variable: customer in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 1653
+[15-Oct-2022 14:11:07 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 14:11:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 14:19:26 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 14:19:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[15-Oct-2022 15:47:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/class-wp-query.php:3028) in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/rest-api/class-wp-rest-server.php on line 1717
+[15-Oct-2022 15:47:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/class-wp-query.php:3028) in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/rest-api/class-wp-rest-server.php on line 1717
+[15-Oct-2022 15:49:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/class-wp-query.php:3028) in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/rest-api/class-wp-rest-server.php on line 1717
+[15-Oct-2022 15:49:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/class-wp-query.php:3028) in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/rest-api/class-wp-rest-server.php on line 1717
+[15-Oct-2022 15:52:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/class-wp-query.php:3028) in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/rest-api/class-wp-rest-server.php on line 1717
+[15-Oct-2022 15:52:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/class-wp-query.php:3028) in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/rest-api/class-wp-rest-server.php on line 1717
+[15-Oct-2022 15:53:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/class-wp-query.php:3028) in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/rest-api/class-wp-rest-server.php on line 1717
+[16-Oct-2022 08:50:51 UTC] Błąd You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.ID
+				FROM wp_users
+				WHERE 1=1 AND (user_login LIKE '%ba%' OR user_url L...' at line 1 bazy danych WordPressa podczas wykonywania zapytania 
+				SELECT SQL_CALC_FOUND_ROWSS wp_users.ID
+				FROM wp_users
+				WHERE 1=1 AND (user_login LIKE '%ba%' OR user_url LIKE '%ba%' OR user_email LIKE '%ba%' OR user_nicename LIKE '%ba%' OR display_name LIKE '%ba%' OR display_name LIKE '%ba%')
+				ORDER BY user_login ASC
+				LIMIT 0, 20
+			 wysłanego przez do_action('wp_ajax_woocommerce_json_search_customers'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::json_search_customers, WC_Data_Store->__call, WC_Customer_Data_Store->search_customers, WP_User_Query->__construct, WP_User_Query->query
+[16-Oct-2022 08:50:51 UTC] Błąd You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.ID
+				FROM wp_users INNER JOIN wp_usermeta ON ( wp_users.ID = wp_usermeta.u...' at line 1 bazy danych WordPressa podczas wykonywania zapytania 
+				SELECT DISTINCT SQL_CALC_FOUND_ROWSS wp_users.ID
+				FROM wp_users INNER JOIN wp_usermeta ON ( wp_users.ID = wp_usermeta.user_id )
+				WHERE 1=1 AND ( 
+  ( wp_usermeta.meta_key = 'first_name' AND wp_usermeta.meta_value LIKE '%ba%' ) 
+  OR 
+  ( wp_usermeta.meta_key = 'last_name' AND wp_usermeta.meta_value LIKE '%ba%' )
+)
+				ORDER BY user_login ASC
+				LIMIT 0, 20
+			 wysłanego przez do_action('wp_ajax_woocommerce_json_search_customers'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::json_search_customers, WC_Data_Store->__call, WC_Customer_Data_Store->search_customers, WP_User_Query->__construct, WP_User_Query->query
+[17-Oct-2022 08:56:20 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 08:56:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:10:34 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:10:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:13:02 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:13:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:19:53 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:19:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:20:00 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:20:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:20:22 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:20:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:21:52 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:21:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:54:41 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 09:54:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[17-Oct-2022 13:25:47 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus2.php on line 147
+[17-Oct-2022 13:25:47 UTC] PHP Notice:  Undefined index: dane in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus3.php on line 147
+[18-Oct-2022 00:09:07 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[18-Oct-2022 00:09:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[18-Oct-2022 06:05:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-includes/wp-db.php on line 1753
+[18-Oct-2022 06:29:58 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[18-Oct-2022 06:29:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[18-Oct-2022 06:30:19 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[18-Oct-2022 06:30:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[18-Oct-2022 06:30:20 UTC] PHP Notice:  Undefined index: billing_company in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96
+[18-Oct-2022 06:30:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-content/themes/mbm/functions.php on line 96

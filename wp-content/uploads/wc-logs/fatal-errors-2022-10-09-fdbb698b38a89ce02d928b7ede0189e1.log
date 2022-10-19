@@ -1,0 +1,10 @@
+2022-10-09T09:06:52+00:00 CRITICAL Uncaught Error: Call to undefined method GusRegonApi::checkNip() in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php:124
+Stack trace:
+#0 {main}
+  thrown w /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php w linii 124
+
+2022-10-09T09:07:24+00:00 CRITICAL Uncaught Error: Call to protected method GusRegonApi::checkNip() from context '' in /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php:124
+Stack trace:
+#0 {main}
+  thrown w /home/weblide2/domains/mbm.edu.pl/public_html/zamowienia-bielsko/wp-admin/gus.php w linii 124
+
