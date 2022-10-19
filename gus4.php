@@ -16,6 +16,8 @@ class GusRegonApi{
     protected $key = "ca1682f755184c239f8d";
     protected $session = null;
 
+
+    
     protected function makeCurl($field,$url){
         $curl = curl_init($url);
         
